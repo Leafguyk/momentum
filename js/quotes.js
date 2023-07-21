@@ -3,10 +3,6 @@ const quotes = [{
         author: "Albert Einstein"
     },
     {
-        quote: "Time is time",
-        author: "Leafguyk"
-    },
-    {
         quote: "",
         author: ""
     },
